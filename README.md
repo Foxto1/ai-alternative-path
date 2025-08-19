@@ -1,3 +1,4 @@
+# Ai Alternative Path
 **Ai Alternative Path** is an interactive terminal application designed to explore hypothetical “what if” scenarios. Users enter questions in a terminal-like interface, and the AI provides concise, structured, and professional responses.
 
 ## Key Features
@@ -94,6 +95,7 @@ Contributions are welcome. Please submit a Pull Request to propose changes.
 ## Screenshot
 
 ![Terminal app screenshot](screenshots/Example%20Usage.png)
+
 
 
 
